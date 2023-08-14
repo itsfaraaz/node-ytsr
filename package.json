@@ -1,30 +1,14 @@
 {
-  "name": "ytsr",
+  "name": "@itsfaraaz/ytsr",
   "version": "0.0.0-development",
   "description": "Simple package to search YouTube - no strings attached.",
-  "keywords": [
-    "youtube",
-    "search",
-    "yt",
-    "ytsearcher",
-    "api",
-    "playlist",
-    "channel",
-    "video",
-    "scrape",
-    "pagination",
-    "promise"
-  ],
-  "homepage": "https://github.com/TimeForANinja/node-ytsr#readme",
-  "bugs": {
-    "url": "https://github.com/TimeForANinja/node-ytsr/issues"
-  },
+  "homepage": "https://github.com/itsfaraaz/node-ytsr#readme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/TimeForANinja/node-ytsr.git"
+    "url": "git://github.com/itsfaraaz/node-ytsr.git"
   },
   "license": "MIT",
-  "author": "Tobias Kutscha (https://github.com/TimeForANinja)",
+  "author": "Faraaz Khan (originally by Tobias Kutscha)",
   "main": "./lib/main.js",
   "types": "./typings/index.d.ts",
   "files": [
