@@ -1,7 +1,7 @@
 {
   "name": "@itsfaraaz/ytsr",
-  "version": "0.0.0-development",
-  "description": "Simple package to search YouTube - no strings attached.",
+  "version": "0.0.2-development",
+  "description": "Improved implementation of node-ystr",
   "homepage": "https://github.com/itsfaraaz/node-ytsr#readme",
   "repository": {
     "type": "git",
